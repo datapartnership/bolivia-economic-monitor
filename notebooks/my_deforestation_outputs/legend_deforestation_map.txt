@@ -1,0 +1,110 @@
+1: Abaroa
+2: Abel Iturralde
+3: Abuná
+4: Alonso de Ibáñez
+5: Andrés Ibáñez
+6: Angel Sandoval
+7: Antonio Quijarro
+8: Arani
+9: Arce
+10: Aroma
+11: Arque
+12: Avilés
+13: Ayopaya
+14: Azurduy
+15: Bautista Saavedra
+16: Belisario Boeto
+17: Bolivar
+18: Camacho
+19: Campero
+20: Capinota
+21: Caranavi
+22: Carangas
+23: Carrasco
+24: Cercado
+25: Chapare
+26: Chayanta
+27: Chiquitos
+28: Chárcas
+29: Cordillera
+30: Cornelio Saavedra
+31: Daniel Campos
+32: Enrique Baldivieso
+33: Esteban Arze
+34: Federico Román
+35: Florida
+36: Franz Tamayo
+37: General Bilbao
+38: General José Ballivián
+39: General José Manuel Pando
+40: Germán Busch
+41: Germán Jordán
+42: Gran Chaco
+43: Gualberto Villarroe
+44: Gualberto Villarroel
+45: Guarayos
+46: Hernando Siles
+47: Ichilo
+48: Ingavi
+49: Inquisivi
+50: Iténez
+51: José María Linares
+52: Ladislao Cabrera
+53: Larecaja
+54: Litoral
+55: Loayza
+56: Los Andes
+57: Luis Calvo
+58: Madre de Dios
+59: Mamoré
+60: Manco Kapac
+61: Manuel María Caballero
+62: Manuripi
+63: Marbán
+64: Mejillones
+65: Mizque
+66: Modesto Omiste
+67: Moxos
+68: Murillo
+69: Muñecas
+70: Méndez
+71: Nicolás Suárez
+72: Nor Carangas
+73: Nor Chichas
+74: Nor Cinti
+75: Nor Lipez
+76: Nor Yungas
+77: O'Connor
+78: Obispo Santistéban
+79: Omasuyos
+80: Oropeza
+81: Pacajes
+82: Pantaleón Dalence
+83: Poopó
+84: Punata
+85: Quillacollo
+86: Rafael Bustillo
+87: Sabaya
+88: Sajama
+89: San Pedro de Totora
+90: Sara
+91: Saucarí
+92: Sebastián Pagador
+93: Sud Yungas
+94: Sur Carangas
+95: Sur Chichas
+96: Sur Cinti
+97: Sur Lipez
+98: Tapacarí
+99: Tiraque
+100: Tomina
+101: Tomás Barrón
+102: Tomás Frías
+103: Vaca Diez
+104: Vallegrande
+105: Velasco
+106: Warnes
+107: Yacuma
+108: Yamparáez
+109: Zudáñez
+110: Ñuflo De Chávez

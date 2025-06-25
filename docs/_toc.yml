@@ -6,5 +6,8 @@ parts:
     chapters:
       - file: notebooks/Cropland_Change_Analysis_Bolivia.ipynb
       - file: notebooks/GFW_vs_LandCover_Interpretation.ipynb
+  - caption: Crop Yield Analysis 
+    chapters:
+      - file: notebooks/evi_analysis.ipynb
  
 

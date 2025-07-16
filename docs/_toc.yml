@@ -2,12 +2,16 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Cropland Area and Deforestation Change Analysis
+  - caption: Introduction to the Data Lab
     chapters:
+      - file: docs/1-intro-to-data-lab
+  - caption: Analytics
+    chapters:
+      - file: notebooks/agricultural_yield/README
+        sections:
+          - file: notebooks/agricultural_yield/evi_analysis.ipynb
       - file: notebooks/Cropland_Change_Analysis_Bolivia.ipynb
       - file: notebooks/GFW_vs_LandCover_Interpretation.ipynb
-  - caption: Crop Yield Analysis 
-    chapters:
-      - file: notebooks/evi_analysis.ipynb
- 
-
+      - file: notebooks/air_pollution/README
+        sections:
+          - file: notebooks/air_pollution/air_pollution.ipynb
